@@ -1,5 +1,5 @@
-waga
+#### waga
 
 python, c, c#
 
-niszczyciel.agawa@gmail.com
+> jwaga76@gmail.com
